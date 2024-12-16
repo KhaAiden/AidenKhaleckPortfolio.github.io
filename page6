@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Render and Print</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+	
+	<body style="background-color:black;">
+	
+	 <link rel="stylesheet" href="styles3.css">
+</head>
+
+    <div class="image-container">
+    <img src="Fish_Framed" alt="Fish" style="width:200 px;height:205px;" class="centered-image"> 
+	<img src="Flower_Framed" alt="Flower" style="width:200 px;height:250px;"> 
+	<img src="Hills_Framed" alt="Hills" style="width:200 px;height:250px;"> 
+	<img src="River_Framed" alt="River" style="width:200 px;height:250px;"> 
+	<br>
+	<p> Lapse is the reflections of forgotten photographs are reimagined through glitch art, transforming past imperfections into bold, captivating expressions of creativity. <p>
+	</div>
+
+
+
+
+</body>
+</html>
